@@ -4,10 +4,18 @@
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
-
-
-
-
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 ads30.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+0.0.0.0 wd.adcolony.com
 
 
 
